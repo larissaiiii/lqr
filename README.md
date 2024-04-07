@@ -1,2 +1,2 @@
-# lqr
+# freq
 pic
